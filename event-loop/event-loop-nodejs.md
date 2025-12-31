@@ -1,4 +1,4 @@
-# Event Loop en Node.js — TEORIA
+# Event Loop en Node.js — Explicación
 
 ## ¿Qué es el Event Loop?
 El **Event Loop** es el mecanismo central que permite a Node.js ejecutar operaciones asíncronas en un solo hilo. Vive en **libuv** (C) y coordina cuándo el thread de JavaScript (V8) debe ejecutar callbacks.
