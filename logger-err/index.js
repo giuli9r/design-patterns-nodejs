@@ -13,9 +13,9 @@ function opeartionX() {
 
 // Example to control the signals
 function operationSignal(){
-    setTimeout(() => {
+    setInterval(() => {
         console.log('Operation Signal in process.... waiting for signals');
-    }, 10000);
+    }, 1000);
 }
 
 // handler for uncaught exceptions and unhandled promise rejections
