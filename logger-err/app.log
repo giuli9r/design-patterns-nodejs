@@ -1,0 +1,4 @@
+{"level":30,"time":1767626097812,"pid":3584,"hostname":"MacBook-Pro-de-nexo.local","msg":"Received SIGINT, exiting gracefully at 7s..."}
+{"level":30,"time":1767626170363,"pid":3638,"hostname":"MacBook-Pro-de-nexo.local","message":"Operation Signal in process.... waiting for signals","contador":0}
+{"level":30,"time":1767626171363,"pid":3638,"hostname":"MacBook-Pro-de-nexo.local","message":"Operation Signal in process.... waiting for signals","contador":1}
+{"level":30,"time":1767626172106,"pid":3638,"hostname":"MacBook-Pro-de-nexo.local","msg":"Received SIGINT, exiting gracefully at 2s..."}
